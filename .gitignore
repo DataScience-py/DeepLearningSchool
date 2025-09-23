@@ -216,3 +216,5 @@ __marimo__/
 .streamlit/secrets.toml
 
 SO_vectors_200.bin?download=1
+
+some_data/
